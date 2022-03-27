@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=objectsInRoom
+comment0.text=\r\n\r\n\ @author\ Shaswat\r\n
+comment1.params=objectName
+comment1.target=void\ take(java.lang.String)
+comment2.params=
+comment2.target=void\ use()
+numComments=3
