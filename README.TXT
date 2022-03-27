@@ -1,27 +1,3 @@
-Project: zuul-better
-Authors: Michael Kölling and David J. Barnes
-
-This project is part of the material for the book
-
-   Objects First with Java - A Practical Introduction using BlueJ
-   Sixth edition
-   David J. Barnes and Michael Kölling
-   Pearson Education, 2016
-   
-This project is a simple framework for an adventure game. In this version,
-it has a few rooms and the ability for a player to walk between these rooms.
-That's all.
-
-To start this application, create an instance of class "Game" and call its
-"play" method.
-
-This project was written as the starting point of a small Java project.
-
-The goal is to extend the game:
-
-  - add items to rooms (items may have weight)
-  - add multiple players
-  - add commands (pick, drop, examine, read, ...)
-  - (anything you can think of, really...)
-
-Read chapter 8 of the book to get a detailed description of the project.
+I developed a game called Outlast which is a horror themed text adventure game. The game is set in a fictional world of a mental asylum where complaints of malpractices can be heard in the news.
+When u first start the game you will be greeted by a message asking your name. You can type in your name and the game welcomes you with a description of the game. You can head to four different directions which will lead you to a specific place. I have set 10 different rooms where players can interact and the game has 6 different exits that the players can go to. There are 2 different items scattered across all the rooms which the players can interact(carry or drop). The players can also check their inventory which will display the items they have carried. The players can type in help command for other instructions in the game. I also have added a limit of 30 steps so that the player loses if they take more than 30 moves to complete the game.
+Main objective of the game is for the player to search for a computer thats hiding a secret file. 
